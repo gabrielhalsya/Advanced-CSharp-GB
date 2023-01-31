@@ -5,9 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsefulConceptual", "UsefulConceptual\UsefulConceptual.csproj", "{56EA7655-F6D7-4BAC-859E-64D1467EB498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{60678487-837E-4E8A-8075-632FA3F690EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{60678487-837E-4E8A-8075-632FA3F690EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{24437C6B-D93A-4BAE-B292-E480F48FF3C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{24437C6B-D93A-4BAE-B292-E480F48FF3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{B316380D-0BDE-4683-A59F-F0846B1EE8A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{24437C6B-D93A-4BAE-B292-E480F48FF3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24437C6B-D93A-4BAE-B292-E480F48FF3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24437C6B-D93A-4BAE-B292-E480F48FF3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
