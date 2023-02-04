@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{24437C6B-D93A-4BAE-B292-E480F48FF3C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{B316380D-0BDE-4683-A59F-F0846B1EE8A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda", "Lambda\Lambda.csproj", "{B316380D-0BDE-4683-A59F-F0846B1EE8A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ", "LinQ\LinQ.csproj", "{458DF7C9-49EA-40CA-BDA7-A8EE69CA9CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreads", "MultiThreads\MultiThreads.csproj", "{4079A334-3ED5-4CD3-9568-44B14961DB24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B316380D-0BDE-4683-A59F-F0846B1EE8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458DF7C9-49EA-40CA-BDA7-A8EE69CA9CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458DF7C9-49EA-40CA-BDA7-A8EE69CA9CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458DF7C9-49EA-40CA-BDA7-A8EE69CA9CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458DF7C9-49EA-40CA-BDA7-A8EE69CA9CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4079A334-3ED5-4CD3-9568-44B14961DB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4079A334-3ED5-4CD3-9568-44B14961DB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4079A334-3ED5-4CD3-9568-44B14961DB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4079A334-3ED5-4CD3-9568-44B14961DB24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
